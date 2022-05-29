@@ -1,1 +1,6 @@
-
+ID 1
+Name Registration
+Pre-condition Enter URL
+Expected result URL open
+Actual result URL doesn`t Open
+Comments WI-Fi missing
